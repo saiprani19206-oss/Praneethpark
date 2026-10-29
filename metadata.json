@@ -1,0 +1,6 @@
+{
+  "name": "MelodyMood - AI Music Automation & Mood Studio",
+  "description": "Generate custom melodies, harmonic progressions, and rhythmic patterns from mood inputs with real-time Web Audio synthesis, music theory tricks, and exportable lead sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
